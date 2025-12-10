@@ -10,8 +10,8 @@ I'm SeongHyeon Noh, an unergraduate research student at Korea University, advise
 My research interests center on Multimodal AI, Generative AI, Bias Mitigation
 
 ## Education
-- **Undergraduate research student in**Korea University [MIIL](https://miil.korea.ac.kr//), Seoul, Korea<br>
-_Sep. 2025 – Present
+- **Undergraduate research student in **Korea University [MIIL](https://miil.korea.ac.kr//), Seoul, Korea<br>
+_Sept. 2025 – Present
 
 - **Undergraduate research student in **Sejong University [MMAI](https://https://sites.google.com/view/mmai-sejong), Seoul, Korea<br>
 _June. 2024 – Aug_ 2025
