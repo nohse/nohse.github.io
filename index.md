@@ -5,7 +5,7 @@ title: "SeongHyeon Noh"
 
 ## About Me
 
-I'm SeungHyup Baek, an unergraduate research student at Korea University, advised by [Prof. Paul Hongsuck Seo](https://phseo.github.io//) in the Multimodal Interactive intelligence Laboratory (MIIL).
+I'm SeongHyeon Noh, an unergraduate research student at Korea University, advised by [Prof. Paul Hongsuck Seo](https://phseo.github.io//) in the Multimodal Interactive intelligence Laboratory (MIIL).
 
 My research interests center on Multimodal AI, Generative AI, Bias Mitigation
 
