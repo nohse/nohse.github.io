@@ -10,10 +10,10 @@ I'm SeongHyeon Noh, an unergraduate research student at Korea University, advise
 My research interests center on Multimodal AI, Generative AI, Bias Mitigation
 
 ## Education
-- **undergraduate research student in**Korea University [MIIL](https://miil.korea.ac.kr//), Seoul, Korea<br>
+- **Undergraduate research student in**Korea University [MIIL](https://miil.korea.ac.kr//), Seoul, Korea<br>
 _Sep. 2025 – Present
 
-- **undergraduate research student in Artificial Intelligence**Sejong University [MMAI](https://https://sites.google.com/view/mmai-sejong), Seoul, Korea<br>
+- **Undergraduate research student in **Sejong University [MMAI](https://https://sites.google.com/view/mmai-sejong), Seoul, Korea<br>
 _June. 2024 – Aug_ 2025
 
 - **B.S. in Data Science**  Sejong University, Seoul, Korea  
@@ -27,4 +27,4 @@ _Jun. 2025 – Dec. 2025 (Expected)_ -->
 ## Publications
 
 - **HQD-EM: Robust VQA Through Hierarchical Question Decomposition Bias Module and Ensemble Adaptive Angular Margin Loss**
-_accepted in 2025 Mathematics [paper](https://www.mdpi.com/2227-7390/13/22/3656) (Impact Factor 2.2, Q1 [top 10%])_
+_accepted in 2025 Mathematics (Impact Factor 2.2, Q1 [top 10%]) [paper](https://www.mdpi.com/2227-7390/13/22/3656)_
