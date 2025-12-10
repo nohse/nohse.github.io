@@ -29,8 +29,8 @@ body {
 }
 
 .profile-image {
-    width: 100%;
-    max-width: 100px;
+    width: 120%;
+    max-width: 120px;
     height: auto;
     border-radius: 8px;
     margin-bottom: 20px;
